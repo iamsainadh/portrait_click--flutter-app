@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515238041402",
+    "project_id": "protrait-click",
+    "storage_bucket": "protrait-click.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515238041402:android:9f6b1c494ffb16af4e2203",
+        "android_client_info": {
+          "package_name": "com.example.portrait_click"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515238041402-6kpvvt0brsdsaki4upn6785vjj4o9elu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0chuR57xoT5OSRisWsxpMmQ2VVI2_je8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515238041402-6kpvvt0brsdsaki4upn6785vjj4o9elu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
